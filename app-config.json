@@ -1,0 +1,23 @@
+{
+    "titleHeader": "Game Center V138",
+    "orientation": 0,
+    "color": null,
+    "type": "default",
+    "rightMenu": {
+        "data": [],
+        "supportToolBar": 0,
+        "reset": 0
+    },
+    "leftMenu": null,
+    "listCSS": [
+        "main-2.0.18.css"
+    ],
+    "listSyncJS": [
+        "https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/js/swiper.min.js",
+        "main-2.0.18.js"
+    ],
+    "listAsyncJS": [
+        "https://store.zaloapp.com/games/ios/static/js/zalojs-sdk-v2-1.13.min.js",
+        "https://stg.store.zaloapp.com/games/v4/static/stg/android/anime.min.js"
+    ]
+}
