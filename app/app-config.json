@@ -1,0 +1,22 @@
+{
+    "titleHeader": "Mini App",
+    "orientation": 0,
+    "color": null,
+    "type": "default",
+    "rightMenu": {
+        "data": [],
+        "supportToolBar": 0,
+        "reset": 0
+    },
+    "leftMenu": null,
+    "listCSS": [
+        "css/2.f87fbcaa.chunk.css",
+        "css/main.6fdcdd19.chunk.css"
+    ],
+    "listSyncJS": [
+        "js/react.js",
+        "js/2.9067ee69.chunk.js",
+        "js/main.8de2b327.chunk.js"
+    ],
+    "listAsyncJS": []
+}
